@@ -33,3 +33,17 @@ Contrastive learning will be a big part of the first task of the problem stateme
 
 4.	Self-Supervised Techniques
 SSL techniques like MLM and NSP have been extremely successful in training large language models such as BERT to understand language better and become good at encoding textual information. Similar techniques have been developed for aiding the Question-Answering task as well. These include frameworks like elBERto which force the model to fully exploit the additional training signals from contexts containing rich commonsense. We also plan on exploring zero-shot learning for dealing with unseen contexts and questions.
+
+
+LITERATURE REVIEW
+
+
+We did a lot of literature review in preparation for this problem statement. The list of all the papers we referred to is given below: - 
+
+•	Know What You Don't Know: Unanswerable Questions for SQuAD (Rajpurkar & Jian et al. ’18)
+•	SQuAD: 100,000+ Questions for Machine Comprehension of Text (Rajpurkar & Jian et al. ’16)
+•	Retrospective Reader for Machine Reading Comprehension (Zhang et al. ’21)
+•	Long Context Question Answering via Supervised Contrastive Learning ( Avi et al. ’22)
+•	Sentence-aware Contrastive Learning for Open-Domain Passage Retrieval (Wu et al. ’22)
+•	elBERto: Self-supervised Commonsense Learning for Question Answering (Zhan et al. ’22)
+•	Self-Supervised Knowledge Triplet Learning for Zero-Shot Question Answering (Banerjee et al. ’20)
